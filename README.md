@@ -13,8 +13,6 @@ Leveraging real-world data from [GDELT](https://www.gdeltproject.org/), the proj
 Use a virtual environment to manage dependencies:
 
 ```bash
-conda create --name enmgt5400p2 python=3.12
-conda activate enmgt5400p2
 pip install -r requirements.txt
 ```
 
@@ -76,24 +74,6 @@ Run all tests to validate your implementation:
 python -m unittest discover
 ```
 
-## Report Expectations
-
-The final report (max 10 pages) must include:
-
-* EDA on GDELT events
-* Database structure & vectorization critique
-* Embedding visualization discussion
-* Prompt design justification
-* Evaluation methodology for LLM + portfolio system
-
-See `report_template.docx` or `report_template.tex` on Canvas.
-
-## Notes
-
-* Only local models (no API calls) are allowed.
-* Ethical and legal concerns around webscraping must be addressed.
-* All `.py` files contain `TODO` sections for you to implement.
-* Appendices and references don’t count toward the page limit.
 
 ## References
 
