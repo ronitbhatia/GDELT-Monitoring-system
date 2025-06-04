@@ -101,7 +101,3 @@ See `report_template.docx` or `report_template.tex` on Canvas.
 * [Chroma Documentation](https://docs.trychroma.com/docs/overview/getting-started)
 * [Ollama](https://ollama.com/)
 * [Prompting Strategies - Google AI](https://ai.google.dev/gemini-api/docs/prompting-strategies)
-
----
-
-Let me know if you'd like this converted into another format (like PDF or DOCX).
